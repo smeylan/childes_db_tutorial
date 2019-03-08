@@ -1,3 +1,5 @@
+#install.packages('childesr')
+#install.packages('ggplot2')
 library('childesr')
 library('ggplot2')
 
